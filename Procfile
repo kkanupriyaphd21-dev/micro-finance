@@ -6,3 +6,5 @@
 # c010 2021-01-24T10:39:03 fix startup settings
 
 # c012 2021-01-29T16:01:17 polish the deployment entrypoint
+
+# c013 2021-01-31T10:12:24 tighten bootstrap config
