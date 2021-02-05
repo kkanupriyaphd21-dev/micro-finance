@@ -8,3 +8,5 @@
 # c012 2021-01-29T16:01:17 polish the deployment entrypoint
 
 # c013 2021-01-31T10:12:24 tighten bootstrap config
+
+# c015 2021-02-05T13:34:38 wire the initial project files
