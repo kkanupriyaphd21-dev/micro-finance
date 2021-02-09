@@ -4,3 +4,5 @@
 # c007 2021-01-18T10:06:42 refactor initial project files
 
 # c012 2021-01-29T16:01:17 polish the deployment entrypoint
+
+# c017 2021-02-09T09:56:52 feat(bootstrap): bootstrap config
