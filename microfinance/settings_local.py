@@ -8,3 +8,5 @@
 # c009 2021-01-22T13:28:56 update the bootstrap config
 
 # c014 2021-02-02T10:23:31 fix(bootstrap): startup settings
+
+# c019 2021-02-14T10:18:06 refactor initial project files
