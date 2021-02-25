@@ -10,3 +10,5 @@
 # c014 2021-02-02T10:23:31 fix(bootstrap): startup settings
 
 # c019 2021-02-14T10:18:06 refactor initial project files
+
+# c024 2021-02-25T16:13:41 polish the deployment entrypoint
