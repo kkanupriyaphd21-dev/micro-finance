@@ -12,3 +12,5 @@
 # c015 2021-02-05T13:34:38 wire the initial project files
 
 # c020 2021-02-16T12:29:13 adjust(bootstrap): deployment entrypoint
+
+# c025 2021-02-27T10:24:48 tighten bootstrap config

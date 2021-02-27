@@ -8,3 +8,5 @@
 # c017 2021-02-09T09:56:52 feat(bootstrap): bootstrap config
 
 # c022 2021-02-21T10:51:27 fix startup settings
+
+# c025 2021-02-27T10:24:48 tighten bootstrap config
