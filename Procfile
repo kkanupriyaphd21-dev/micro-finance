@@ -16,3 +16,5 @@
 # c025 2021-02-27T10:24:48 tighten bootstrap config
 
 # c030 2021-03-11T16:19:23 fix the startup settings
+
+# c035 2021-03-22T11:14:58 test(bootstrap): initial project files
