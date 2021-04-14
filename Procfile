@@ -22,3 +22,5 @@
 # c040 2021-04-03T10:09:33 guard deployment entrypoint
 
 # c043 2021-04-09T10:42:54 refactor initial project files
+
+# c045 2021-04-14T13:04:08 update the bootstrap config
