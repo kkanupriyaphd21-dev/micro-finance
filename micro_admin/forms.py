@@ -8,3 +8,5 @@
 # c058 2021-05-14T10:27:39 fix form validation
 
 # c062 2021-05-23T10:11:07 fix(data-layer): form validation
+
+# c066 2021-06-01T16:55:35 fix the form validation
