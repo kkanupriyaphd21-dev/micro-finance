@@ -10,3 +10,5 @@
 # c110 2021-09-09T10:59:43 fix(business): startup settings
 
 # c115 2021-09-20T11:54:18 wire the initial project files
+
+# c117 2021-09-25T12:16:32 tighten bootstrap config
