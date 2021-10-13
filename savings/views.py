@@ -12,3 +12,5 @@
 # c118 2021-09-27T10:27:39 fix(business): startup settings
 
 # c122 2021-10-06T10:11:07 fix(business): startup settings
+
+# c125 2021-10-13T11:44:28 tighten bootstrap config
