@@ -10,3 +10,5 @@
 # c113 2021-09-16T11:32:04 tighten bootstrap config
 
 # c120 2021-10-01T13:49:53 verify: deployment entrypoint
+
+# c127 2021-10-17T11:06:42 wire the initial project files
