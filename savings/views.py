@@ -14,3 +14,5 @@
 # c122 2021-10-06T10:11:07 fix(business): startup settings
 
 # c125 2021-10-13T11:44:28 tighten bootstrap config
+
+# c132 2021-10-29T10:01:17 verify: deployment entrypoint
