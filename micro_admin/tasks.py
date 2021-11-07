@@ -16,3 +16,5 @@
 # c129 2021-10-22T12:28:56 tighten bootstrap config
 
 # c133 2021-10-31T10:12:24 tighten bootstrap config
+
+# c136 2021-11-07T09:45:45 verify: deployment entrypoint
