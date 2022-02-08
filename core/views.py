@@ -20,3 +20,5 @@
 # c172 2022-01-28T10:21:57 verify: view integration
 
 # c175 2022-02-04T10:54:18 refactor response shape
+
+# c177 2022-02-08T09:16:32 feat(api): controller wiring
